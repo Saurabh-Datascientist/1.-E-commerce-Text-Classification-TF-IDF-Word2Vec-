@@ -1,0 +1,13 @@
+1. Link
+-------
+
+Code
+-----
+
+https://www.kaggle.com/code/sugataghosh/e-commerce-text-classification-tf-idf-word2vec/notebook
+
+Data set:
+
+https://zenodo.org/records/3355823
+
+
